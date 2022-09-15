@@ -16,12 +16,6 @@ const Index = () => {
             quis nostrum nihil debitis aliquid?
           </div>
         </div>
-        <div className="bg-white rounded-full h-28 no-smoking w-60">
-          <img
-            src="https://fontawesomeicons.com/lib/svg/logo-no-smoking.svg"
-            alt="No smoking"
-          />
-        </div>
       </div>
     </>
   );
